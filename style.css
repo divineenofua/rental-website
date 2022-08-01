@@ -540,6 +540,7 @@ header {
             opacity: 1;
         }
     }
+   
     .header-sub_content{
         display: block;
         width: 100%;
@@ -602,6 +603,9 @@ header {
        }
        .header-container{
         width: 100%;
+    }
+    .header-content > p{
+        font-size: 30px;
     }
        .trend-content{
         grid-template-columns:1fr;
